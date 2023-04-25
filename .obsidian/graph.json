@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#MOC",
+      "color": {
+        "a": 1,
+        "rgb": 15533831
+      }
+    },
+    {
+      "query": "tag:#ProgAlgo",
+      "color": {
+        "a": 1,
+        "rgb": 14653959
+      }
+    },
+    {
+      "query": "path:\"Appunti/I Anno/Annuale/Analisi Matematica\"",
+      "color": {
+        "a": 1,
+        "rgb": 14749332
+      }
+    },
+    {
+      "query": "path:\"Appunti/I Anno/I Semestre/FdI\"",
+      "color": {
+        "a": 1,
+        "rgb": 1496086
+      }
+    },
+    {
+      "query": "path:\"Appunti/I Anno/II Semestre/Algebra Lineare\"",
+      "color": {
+        "a": 1,
+        "rgb": 5030555
+      }
+    },
+    {
+      "query": "path:\"Appunti/I Anno/Annuale/Laboratorio I\"",
+      "color": {
+        "a": 1,
+        "rgb": 9243876
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.203125,
+  "repelStrength": 8.33333333333333,
+  "linkStrength": 0.416666666666667,
+  "linkDistance": 30,
+  "scale": 0.3628873693012174,
+  "close": true
+}
