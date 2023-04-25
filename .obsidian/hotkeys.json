@@ -23,20 +23,14 @@
       "key": "M"
     }
   ],
+  "obsidian-git:pull": [],
   "obsidian-git:commit": [
     {
       "modifiers": [
-        "Alt"
+        "Alt",
+        "Mod"
       ],
-      "key": ","
-    }
-  ],
-  "obsidian-git:pull": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "."
+      "key": "N"
     }
   ]
 }
