@@ -11,5 +11,14 @@
       "value": "#00bfff"
     }
   ],
-  "fileColors": []
+  "fileColors": [
+    {
+      "path": "Appunti",
+      "color": "gYD0onCdNBv6EQBYqoN-N"
+    },
+    {
+      "path": "Template",
+      "color": "FulWOeTKuXhjbJAvGeFJ3"
+    }
+  ]
 }

@@ -1,7 +1,6 @@
 [
   "cm-editor-syntax-highlight-obsidian",
   "better-word-count",
-  "obsidian-dictionary-plugin",
   "templater-obsidian",
   "table-editor-obsidian",
   "dataview",
@@ -12,5 +11,7 @@
   "obsidian-emoji-toolbar",
   "obsidian-better-codeblock",
   "obsidian-file-color",
-  "highlightr-plugin"
+  "highlightr-plugin",
+  "obsidian-languagetool-plugin",
+  "obsidian-charts"
 ]

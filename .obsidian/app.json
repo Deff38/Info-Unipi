@@ -1,1 +1,8 @@
-{}
+{
+  "promptDelete": false,
+  "spellcheck": true,
+  "spellcheckDictionary": [
+    "Im",
+    "Prev"
+  ]
+}

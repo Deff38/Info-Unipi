@@ -31,7 +31,7 @@ Prev: [[🌐 UniMOC]]
 
 # 👨‍🏫Prof
 - [Professor Davide Bacciu](http://pages.di.unipi.it/bacciu/)
-- [Professor Alessio Malizia](alessiomalizia.wordpress.com)
+- [Professor Alessio Malizia](https://alessiomalizia.wordpress.com/)
 
 
 
