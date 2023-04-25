@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Appunti/I Anno/Annuale/Laboratorio I/🌐 Laboratorio I.md",
+                "file": "Appunti/I Anno/Annuale/ProgAlgo/🌐 Programmazione e Algoritmica.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Appunti/I Anno/Annuale/Laboratorio I/🌐 Laboratorio I.md",
+                "file": "Appunti/I Anno/Annuale/ProgAlgo/🌐 Programmazione e Algoritmica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Appunti/I Anno/Annuale/Laboratorio I/🌐 Laboratorio I.md",
+                "file": "Appunti/I Anno/Annuale/ProgAlgo/🌐 Programmazione e Algoritmica.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Appunti/I Anno/Annuale/Laboratorio I/🌐 Laboratorio I.md"
+                "file": "Appunti/I Anno/Annuale/ProgAlgo/🌐 Programmazione e Algoritmica.md"
               }
             }
           },
@@ -172,16 +172,17 @@
   },
   "active": "1ce0a8f93b7292f9",
   "lastOpenFiles": [
+    "Appunti/I Anno/Annuale/Laboratorio I/🌐 Laboratorio I.md",
+    "Appunti/I Anno/Annuale/ProgAlgo/Note/Struttura di un calcolatore e ambienti di sviluppo/1.2 Paradigmi di Programmazione.md",
+    "Appunti/I Anno/Annuale/ProgAlgo/Note/Struttura di un calcolatore e ambienti di sviluppo/1.1 Introduzione alla Materia.md",
+    "Appunti/I Anno/Annuale/ProgAlgo/🌐 Programmazione e Algoritmica.md",
+    "README.md",
     "Appunti/I Anno/Annuale/Analisi Matematica/🌐 Analisi Matematica.md",
     "Senza nome.canvas",
     "Appunti/I Anno/Annuale/Laboratorio I/Note/Tipi Di Dato/1.2 Tipi di Dato.md",
     "Appunti/I Anno/Annuale/Laboratorio I/Note/Tipi Di Dato/1.1 Struttura di un Programma.md",
-    "Appunti/I Anno/Annuale/Laboratorio I/🌐 Laboratorio I.md",
-    "Appunti/I Anno/Annuale/ProgAlgo/Note/Struttura di un calcolatore e ambienti di sviluppo/1.2 Paradigmi di Programmazione.md",
     "Appunti/I Anno/Annuale/ProgAlgo/Note/Struttura di un calcolatore e ambienti di sviluppo/1.EX Il Problema delle 12 Monete.md",
     "Appunti/I Anno/Annuale/ProgAlgo/Note/Struttura di un calcolatore e ambienti di sviluppo/1.3 Linguaggi, Grammatiche, BNF.md",
-    "Appunti/I Anno/Annuale/ProgAlgo/Note/Struttura di un calcolatore e ambienti di sviluppo/1.1 Introduzione alla Materia.md",
-    "Appunti/I Anno/Annuale/ProgAlgo/🌐 Programmazione e Algoritmica.md",
     "Appunti/I Anno/Annuale/Laboratorio I/Note/Tipi Di Dato",
     "Appunti/I Anno/Annuale/ProgAlgo/Note/Struttura di un calcolatore e ambienti di sviluppo/2. Analisi asintotica del costo computazionale.md",
     "Appunti/I Anno/Annuale/Conoscenza della Lingua Inglese/🌐 Conoscenza della Lingua Inglese.md",
@@ -210,7 +211,6 @@
     "1.1.5 Architettura di un Computer di Von Neumann.md",
     "1.1 Linguaggi di Programmazione.md",
     "Appunti/I Anno/Annuale/Laboratorio I/Note/1. Tuple, pile e code.md",
-    "Rappresentazione delle informazioni.md",
-    "1.1  Linguaggi di Programmazione.md"
+    "Rappresentazione delle informazioni.md"
   ]
 }

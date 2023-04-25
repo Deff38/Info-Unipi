@@ -15,13 +15,28 @@
       "key": "T"
     }
   ],
+  "obsidian-git:push2": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "M"
+    }
+  ],
   "obsidian-git:commit": [
     {
       "modifiers": [
-        "Alt",
-        "Mod"
+        "Alt"
       ],
-      "key": "N"
+      "key": ","
+    }
+  ],
+  "obsidian-git:pull": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "."
     }
   ]
 }
