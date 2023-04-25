@@ -15,7 +15,6 @@ Prev: [[🌐 UniMOC]]
 	- ##### [[1.2 Paradigmi di Programmazione]]
 		- ##### [[1.EX Il Problema delle 12 Monete]]
 	- ##### [[1.3 Linguaggi, Grammatiche, BNF]]
-	- prova commi
 ### [[2. Analisi asintotica del costo computazionale]]
 ### [[3. Rappresentazione delle informazioni]]
 ### [[4. Problemi computazionali e algoritmi di risoluzione]]
