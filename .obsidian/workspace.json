@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Appunti/I Anno/Annuale/ProgAlgo/🌐 Programmazione e Algoritmica.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Appunti/I Anno/Annuale/ProgAlgo/🌐 Programmazione e Algoritmica.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Appunti/I Anno/Annuale/ProgAlgo/🌐 Programmazione e Algoritmica.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Appunti/I Anno/Annuale/ProgAlgo/🌐 Programmazione e Algoritmica.md"
+                "file": "README.md"
               }
             }
           },
@@ -172,8 +172,8 @@
   },
   "active": "1ce0a8f93b7292f9",
   "lastOpenFiles": [
-    "Appunti/I Anno/Annuale/Laboratorio I/🌐 Laboratorio I.md",
     "Appunti/I Anno/Annuale/ProgAlgo/🌐 Programmazione e Algoritmica.md",
+    "Appunti/I Anno/Annuale/Laboratorio I/🌐 Laboratorio I.md",
     "Appunti/I Anno/Annuale/ProgAlgo/Note/Struttura di un calcolatore e ambienti di sviluppo/1.3 Linguaggi, Grammatiche, BNF.md",
     "Appunti/I Anno/Annuale/ProgAlgo/Note/Struttura di un calcolatore e ambienti di sviluppo/1.2 Paradigmi di Programmazione.md",
     "Appunti/I Anno/Annuale/ProgAlgo/Note/Struttura di un calcolatore e ambienti di sviluppo/1.1 Introduzione alla Materia.md",

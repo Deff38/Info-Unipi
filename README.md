@@ -1,3 +1,3 @@
 # Info-Unipi
 
-Prova
+Appunti del corso di informatica dell'Università di Pisa
