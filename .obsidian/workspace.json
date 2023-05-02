@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "eac4ffd8915acfc3",
+        "id": "d64e8279d775f13d",
         "type": "tabs",
         "children": [
           {
-            "id": "1ce0a8f93b7292f9",
+            "id": "7d3784b3f673b269",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -64,6 +60,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "f408b6fc3b93072f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Appunti/I Anno/Annuale/Analisi Matematica/🌐 Analisi Matematica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Appunti/I Anno/Annuale/Analisi Matematica/🌐 Analisi Matematica.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Appunti/I Anno/Annuale/Analisi Matematica/🌐 Analisi Matematica.md"
               }
             }
           },
@@ -167,12 +171,17 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "1ce0a8f93b7292f9",
+  "active": "977f56172973ff50",
   "lastOpenFiles": [
     "README.md",
+    "Appunti/I Anno/Annuale/Analisi Matematica/Analisi I/2. Funzioni di una variabile/2.2 Funzioni Reali di Variabile Reale.md",
+    "Appunti/I Anno/Annuale/Laboratorio I/🌐 Laboratorio I.md",
+    "Funzioni Limitate.md",
+    "Appunti/I Anno/Annuale/Analisi Matematica/Analisi I/2. Funzioni di una variabile/2.1 Il concetto di Funzione.md",
+    "Appunti/I Anno/Annuale/Analisi Matematica/Analisi I/2. Funzioni di una variabile",
+    "Appunti/I Anno/Annuale/Analisi Matematica/Analisi I",
     "Senza nome.canvas",
     "Appunti/I Anno/Annuale/ProgAlgo/🌐 Programmazione e Algoritmica.md",
-    "Appunti/I Anno/Annuale/Laboratorio I/🌐 Laboratorio I.md",
     "Appunti/I Anno/Annuale/ProgAlgo/Note/Struttura di un calcolatore e ambienti di sviluppo/1.3 Linguaggi, Grammatiche, BNF.md",
     "Appunti/I Anno/Annuale/ProgAlgo/Note/Struttura di un calcolatore e ambienti di sviluppo/1.2 Paradigmi di Programmazione.md",
     "Appunti/I Anno/Annuale/ProgAlgo/Note/Struttura di un calcolatore e ambienti di sviluppo/1.1 Introduzione alla Materia.md",
@@ -205,8 +214,6 @@
     "Appunti/I Anno/Annuale/ProgAlgo/Allegati/Il Problema delle 12 Monete.pdf",
     "1. Struttura di un calcolatore e ambienti di sviluppo.md",
     "Appunti/I Anno/Annuale/ProgAlgo/Note/Struttura di un calcolatore e ambienti di sviluppo/1. Struttura di un calcolatore e ambienti di sviluppo.md",
-    "1.1.5 Architettura di un Computer di Von Neumann.md",
-    "1.1 Linguaggi di Programmazione.md",
-    "Appunti/I Anno/Annuale/Laboratorio I/Note/1. Tuple, pile e code.md"
+    "1.1.5 Architettura di un Computer di Von Neumann.md"
   ]
 }

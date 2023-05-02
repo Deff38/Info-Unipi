@@ -9,16 +9,48 @@
       "id": "FulWOeTKuXhjbJAvGeFJ3",
       "name": "Azzurro",
       "value": "#00bfff"
+    },
+    {
+      "id": "DbnVRY1gBOEMHakBxbNNC",
+      "name": "Rosso-Viola",
+      "value": "#d20f63"
+    },
+    {
+      "id": "snuphbpwDvahrW42GEb2u",
+      "name": "Viola",
+      "value": "#c60dd3"
+    },
+    {
+      "id": "MskAiMILYr25wqOofHk29",
+      "name": "Arancio",
+      "value": "#ff6905"
+    },
+    {
+      "id": "FjV3uctF1VkvsfW4yE92p",
+      "name": "Verde",
+      "value": "#0ed84a"
     }
   ],
   "fileColors": [
     {
       "path": "Appunti",
-      "color": "gYD0onCdNBv6EQBYqoN-N"
+      "color": "FulWOeTKuXhjbJAvGeFJ3"
     },
     {
       "path": "Template",
-      "color": "FulWOeTKuXhjbJAvGeFJ3"
+      "color": "gYD0onCdNBv6EQBYqoN-N"
+    },
+    {
+      "path": "Appunti/I Anno/Annuale/Analisi Matematica",
+      "color": "DbnVRY1gBOEMHakBxbNNC"
+    },
+    {
+      "path": "Appunti/I Anno/Annuale/Laboratorio I",
+      "color": "snuphbpwDvahrW42GEb2u"
+    },
+    {
+      "path": "Appunti/I Anno/Annuale/ProgAlgo",
+      "color": "FjV3uctF1VkvsfW4yE92p"
     }
   ]
 }
