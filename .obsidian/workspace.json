@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.1 Controllo del Flusso.md",
-                "mode": "source",
+                "file": "Appunti/I Anno/Annuale/Laboratorio I/Note/2. Controllo del Flusso/2.2 Comandi Condizionali.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.1 Controllo del Flusso.md",
+                "file": "Appunti/I Anno/Annuale/Laboratorio I/Note/2. Controllo del Flusso/2.2 Comandi Condizionali.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.1 Controllo del Flusso.md",
+                "file": "Appunti/I Anno/Annuale/Laboratorio I/Note/2. Controllo del Flusso/2.2 Comandi Condizionali.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.1 Controllo del Flusso.md"
+                "file": "Appunti/I Anno/Annuale/Laboratorio I/Note/2. Controllo del Flusso/2.2 Comandi Condizionali.md"
               }
             }
           },
@@ -177,8 +177,13 @@
   },
   "active": "7d3784b3f673b269",
   "lastOpenFiles": [
+    "Appunti/I Anno/Annuale/Laboratorio I/Note/2. Controllo del Flusso/2.1 Controllo del Flusso.md",
+    "Appunti/I Anno/Annuale/Laboratorio I/Note/2. Controllo del Flusso/2.2 Comandi Condizionali.md",
+    "Appunti/I Anno/Annuale/Laboratorio I/Allegati/Comando switch.png",
+    "Appunti/I Anno/Annuale/Laboratorio I/Allegati/Operatore Logico Condizionale.png",
+    "Pasted image 20230504185844.png.md",
+    "Appunti/I Anno/Annuale/Laboratorio I/Allegati/If-else.png",
     "Appunti/I Anno/Annuale/Laboratorio I/🌐 Laboratorio I.md",
-    "2.1 Controllo del Flusso.md",
     "Appunti/I Anno/Annuale/Laboratorio I/Note/1. Tipi Di Dato Primitivi/1.5 INPUT e OUTPUT.md",
     "Appunti/I Anno/Annuale/Laboratorio I/Note/2. Controllo del Flusso",
     "Appunti/I Anno/Annuale/Laboratorio I/Note/1. Tipi Di Dato Primitivi/1.4 Variabili.md",
@@ -206,19 +211,13 @@
     "Appunti/I Anno/Annuale/Laboratorio I/Note/1. Tipi Di Dato Primitivi",
     "Appunti/I Anno/Annuale/ProgAlgo/Note/Struttura di un calcolatore e ambienti di sviluppo/2. Analisi asintotica del costo computazionale.md",
     "Appunti/I Anno/Annuale/Conoscenza della Lingua Inglese/🌐 Conoscenza della Lingua Inglese.md",
-    "1. Tuple, pile e code.md",
     "Appunti/I Anno/Annuale/Laboratorio I/Allegati/Pasted image 20230227191107.png",
     "Appunti/I Anno/Annuale/Laboratorio I/Allegati/Pasted image 20230227191029.png",
     "Appunti/I Anno/Annuale/Laboratorio I/Allegati/Pasted image 20230227191125.png",
     "Appunti/I Anno/Annuale/Laboratorio I/Allegati/Pasted image 20230227191134.png",
     "Appunti/I Anno/Annuale/Laboratorio I/Allegati/Pasted image 20230227191131.png",
-    "Appunti/🌐 UniMOC.md",
-    "Appunti/I Anno/Annuale/ProgAlgo/Note/Struttura di un calcolatore e ambienti di sviluppo/Senza nome.md",
     "Appunti/I Anno/Annuale/ProgAlgo/Allegati/1.EX Figura 4.png",
     "Appunti/I Anno/Annuale/ProgAlgo/Allegati/Pasted image 20230310201026.png",
-    "Appunti/I Anno/Annuale/ProgAlgo/Allegati/1.EX Figura 3.png",
-    "Appunti/I Anno/Annuale/ProgAlgo/Allegati/1.EX Figura 2.png",
-    "Appunti/I Anno/Annuale/ProgAlgo/Allegati/1.EX Figura 1.png",
     "Appunti/I Anno/Annuale/ProgAlgo/Allegati/T. Cormen, C. Leiserson, R. Rivest, C. Stein. Introduzione agli algoritmi e strutture dati. McGraw-Hill, Terza edizione, 2010.pdf",
     "Appunti/I Anno/Annuale/ProgAlgo/Allegati/Il Problema delle 12 Monete.pdf"
   ]
