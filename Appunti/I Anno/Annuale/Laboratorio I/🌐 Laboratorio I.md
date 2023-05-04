@@ -9,10 +9,14 @@ Prev: [[🌐 UniMOC]]
 
 # 🌐Course MOC
 
-- ### 1. Tipi di Dato
+- ### 1. Tipi di Dato Primitivi
 	- ##### [[1.1 Struttura di un Programma]]
-	- ##### [[1.2 Tipi di Dato]]
+	- ##### [[1.2 Tipi di Dato Primitivi]]
 	- ##### [[1.3 Espressioni e Comandi]]
+	- ##### [[1.4 Variabili]]
+	- ##### [[1.5 INPUT e OUTPUT]]
+- ### 2. Controllo del Flusso
+	- ##### [[2.1 Controllo del Flusso]]
 
 
 

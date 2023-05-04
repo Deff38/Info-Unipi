@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Template Nota.md",
+                "file": "2.1 Controllo del Flusso.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Template Nota.md",
+                "file": "2.1 Controllo del Flusso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Template Nota.md",
+                "file": "2.1 Controllo del Flusso.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/Template Nota.md"
+                "file": "2.1 Controllo del Flusso.md"
               }
             }
           },
@@ -177,14 +177,20 @@
   },
   "active": "7d3784b3f673b269",
   "lastOpenFiles": [
-    "Template/Template MOC.md",
-    "Template/Template Nota.md",
-    "Template/Template Allegato.md",
-    "Appunti/I Anno/Annuale/Laboratorio I/Note/Tipi Di Dato/1.3 Espressioni e Comandi.md",
     "Appunti/I Anno/Annuale/Laboratorio I/🌐 Laboratorio I.md",
-    "Appunti/I Anno/Annuale/Laboratorio I/Note/Tipi Di Dato/1.2 Tipi di Dato.md",
+    "2.1 Controllo del Flusso.md",
+    "Appunti/I Anno/Annuale/Laboratorio I/Note/1. Tipi Di Dato Primitivi/1.5 INPUT e OUTPUT.md",
+    "Appunti/I Anno/Annuale/Laboratorio I/Note/2. Controllo del Flusso",
+    "Appunti/I Anno/Annuale/Laboratorio I/Note/1. Tipi Di Dato Primitivi/1.4 Variabili.md",
+    "Appunti/I Anno/Annuale/Laboratorio I/Note/1. Tipi Di Dato Primitivi/1.3 Espressioni e Comandi.md",
+    "Appunti/I Anno/Annuale/Laboratorio I/Note/1. Tipi Di Dato Primitivi/1.2 Tipi di Dato Primitivi.md",
+    "Appunti/I Anno/Annuale/Laboratorio I/Note/1. Tipi Di Dato Primitivi/1.1 Struttura di un Programma.md",
+    "Appunti/I Anno/Annuale/Laboratorio I/Template/Template Nota Lab I.md",
+    "Appunti/I Anno/Annuale/Laboratorio I/Template",
+    "Template/Template Nota.md",
+    "Template/Template MOC.md",
+    "Template/Template Allegato.md",
     "Funzioni Limitate.md",
-    "Appunti/I Anno/Annuale/Laboratorio I/Note/Tipi Di Dato/1.1 Struttura di un Programma.md",
     "Appunti/I Anno/Annuale/Analisi Matematica/Analisi I/2. Funzioni di una variabile/2.2 Funzioni Reali di Variabile Reale.md",
     "README.md",
     "Appunti/I Anno/Annuale/Analisi Matematica/Analisi I/2. Funzioni di una variabile/2.1 Il concetto di Funzione.md",
@@ -197,7 +203,7 @@
     "Appunti/I Anno/Annuale/ProgAlgo/Note/Struttura di un calcolatore e ambienti di sviluppo/1.1 Introduzione alla Materia.md",
     "Appunti/I Anno/Annuale/Analisi Matematica/🌐 Analisi Matematica.md",
     "Appunti/I Anno/Annuale/ProgAlgo/Note/Struttura di un calcolatore e ambienti di sviluppo/1.EX Il Problema delle 12 Monete.md",
-    "Appunti/I Anno/Annuale/Laboratorio I/Note/Tipi Di Dato",
+    "Appunti/I Anno/Annuale/Laboratorio I/Note/1. Tipi Di Dato Primitivi",
     "Appunti/I Anno/Annuale/ProgAlgo/Note/Struttura di un calcolatore e ambienti di sviluppo/2. Analisi asintotica del costo computazionale.md",
     "Appunti/I Anno/Annuale/Conoscenza della Lingua Inglese/🌐 Conoscenza della Lingua Inglese.md",
     "1. Tuple, pile e code.md",
@@ -208,16 +214,12 @@
     "Appunti/I Anno/Annuale/Laboratorio I/Allegati/Pasted image 20230227191131.png",
     "Appunti/🌐 UniMOC.md",
     "Appunti/I Anno/Annuale/ProgAlgo/Note/Struttura di un calcolatore e ambienti di sviluppo/Senza nome.md",
-    "2023-04-19.md",
-    "Appunti/I Anno/I Semestre/FdI/🌐 Fondamenti di Informatica.md",
     "Appunti/I Anno/Annuale/ProgAlgo/Allegati/1.EX Figura 4.png",
     "Appunti/I Anno/Annuale/ProgAlgo/Allegati/Pasted image 20230310201026.png",
     "Appunti/I Anno/Annuale/ProgAlgo/Allegati/1.EX Figura 3.png",
     "Appunti/I Anno/Annuale/ProgAlgo/Allegati/1.EX Figura 2.png",
     "Appunti/I Anno/Annuale/ProgAlgo/Allegati/1.EX Figura 1.png",
     "Appunti/I Anno/Annuale/ProgAlgo/Allegati/T. Cormen, C. Leiserson, R. Rivest, C. Stein. Introduzione agli algoritmi e strutture dati. McGraw-Hill, Terza edizione, 2010.pdf",
-    "Appunti/I Anno/Annuale/ProgAlgo/Allegati/Il Problema delle 12 Monete.pdf",
-    "1. Struttura di un calcolatore e ambienti di sviluppo.md",
-    "Appunti/I Anno/Annuale/ProgAlgo/Note/Struttura di un calcolatore e ambienti di sviluppo/1. Struttura di un calcolatore e ambienti di sviluppo.md"
+    "Appunti/I Anno/Annuale/ProgAlgo/Allegati/Il Problema delle 12 Monete.pdf"
   ]
 }
